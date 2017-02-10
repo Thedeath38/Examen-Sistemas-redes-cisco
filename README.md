@@ -16,7 +16,7 @@ La configuracion que tiene el archivo es la siguiente:
  * Rip por las tres redes que van al router 192.168.1.0 , 10.0.0.0 y 11.0.0.0
  * El servidor actua como DHCP asignado ips desde la 192.168.1.10 hasta la 192.168.1.243
  * Switch Conectada a un punto de enlace y a un servidor DHCP
- * El DHCP y las ip fijas conectan con el servidor de DNS 192.168.2.1
+ * El DHCP y las ip fijas conectan con el servidor de DNS www.recuperacion.org (192.168.2.1)
  * El punto de enlace tiene dos ordenadores con DHCP y otros dos con IP-Fija la ip fijas son(192.168.1.2 y 192.168.1.3)
 
 
