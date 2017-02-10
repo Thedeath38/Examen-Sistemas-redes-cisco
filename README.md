@@ -20,7 +20,7 @@ La configuracion que tiene el archivo es la siguiente:
  * El punto de enlace tiene dos ordenadores con DHCP y otros dos con IP-Fija la ip fijas son(192.168.1.2 y 192.168.1.3)
 
 
-- Segunda Red
+- Tercera Red
  * Tiene un router con 2 ip una se dirije a los routers y la otra al servidor
  * IP hacia los routers 11.0.0.2/8
  * IP hacia los ordenadores 192.168.2.254/24
