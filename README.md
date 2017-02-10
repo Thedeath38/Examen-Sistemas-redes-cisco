@@ -26,5 +26,5 @@ La configuracion que tiene el archivo es la siguiente:
  * IP hacia los ordenadores 192.168.2.254/24
  * Rip por las dos redes que van al router 192.168.2.0 y 11.0.0.0
  * Tiene un servidor Web en la ip 192.168.2.1/29 y servidor DNS en la misma ip que asigna la url www.recuperacion.org
- * Ese servidor actua como DNS reconociendo el dominio www.recuperacion.or
+ * Ese servidor actua como DNS reconociendo el dominio www.recuperacion.org
  * Switch Conectada a un servidor
